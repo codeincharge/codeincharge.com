@@ -1,0 +1,2 @@
+# codeincharge.com
+ COde Incharge &lt;codeincharge@gmail.com> 12:01 PM (1 hour ago) to hitech  Hi everyone, Good morning boss, Hope you guys are doing pretty good. I am software engineer and i have 4 years of experience of creating website application fully responsive, secure and user friendly from scratch. I am expert in following areas are listed below:  1. HTML &amp; CSS 2. JAVSCRIPT 3. BOOTSRAP 4. JQUERY 5. AJAX 6. WORDPRESS &amp; BLOGS 7. PHP 8 ASP DOT NET MVC &amp; DOT NET cWEB APPS 9 .ADNROID APPLICATION 10. SEO &amp; ADDSESNSE
